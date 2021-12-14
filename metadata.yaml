@@ -1,0 +1,36 @@
+_repo: Emil-vagy-a-nevelesrol_66903
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Schöpflin, Aladár
+    alias: Schopflin, Aladar
+    birthdate: 1872
+    deathdate: 1950
+    gutenberg_agent_id: '53082'
+    url: http://www.gutenberg.org/2009/agents/53082
+    wikipedia: https://hu.wikipedia.org/wiki/Sch%C3%B6pflin_Alad%C3%A1r
+creator:
+  author:
+    agent_name: Rousseau, Jean-Jacques
+    aliases:
+    - Rousseau, Jean Jacques
+    - Rousseau, J. J. (Jean-Jacques)
+    birthdate: 1712
+    deathdate: 1778
+    gutenberg_agent_id: '1286'
+    url: http://www.gutenberg.org/2009/agents/1286
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau
+    - https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
+description: ''
+gutenberg_issued: '2021-12-08'
+identifiers:
+  gutenberg: '66903'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Emil, vagy a nevelésről
+url: http://www.gutenberg.org/ebooks/66903
