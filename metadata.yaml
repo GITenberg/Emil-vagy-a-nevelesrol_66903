@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '53082'
     url: http://www.gutenberg.org/2009/agents/53082
     wikipedia: https://hu.wikipedia.org/wiki/Sch%C3%B6pflin_Alad%C3%A1r
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rousseau, Jean-Jacques
@@ -23,6 +26,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau
     - https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66903#Emil-vagy-a-nevelesrol
 gutenberg_issued: '2021-12-08'
 identifiers:
   gutenberg: '66903'
